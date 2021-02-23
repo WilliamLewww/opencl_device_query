@@ -1,1 +1,1 @@
-# opencl_device_query
+# opencl_cross_gpu

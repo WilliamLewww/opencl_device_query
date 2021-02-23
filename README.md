@@ -1,0 +1,1 @@
+# opencl_device_query
